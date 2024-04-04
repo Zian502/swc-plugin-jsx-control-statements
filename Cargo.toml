@@ -19,6 +19,6 @@ strip = "symbols"
 easy-error = "1.0.0"
 serde = "1"
 swc_core = { version = "0.88.*", features = ["ecma_plugin_transform"] }
-tracing = {version = "0.1.37", features = ["release_max_level_off"]}
-swc_common = "=0.33.19"
+tracing = {version = "0.1.*", features = ["release_max_level_off"]}
 jsx_control_statements = {path = "./transform", version = "0.1.0"}
+swc_common = "=0.33.19"
