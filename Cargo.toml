@@ -3,9 +3,9 @@ authors = ["intpp <intpplus@gmail.com>"]
 description = "SWC Plugin for jsx-control-statements"
 edition = "2021"
 license = "ISC"
-name = "swc_plugin_jsx_control_statements"
+name = "swc_plugin_jsx_control_statements_v2"
 publish = false
-version = "0.1.3"
+version = "0.2.0"
 
 [lib]
 crate-type = ["cdylib"]
